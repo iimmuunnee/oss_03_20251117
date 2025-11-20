@@ -54,7 +54,7 @@ Linux 환경에서 **프로세스**를 관리할 때 가장 많이 사용하는 
 `top`
 
 ### 사용 예시 화면
-<img src="./images/top_example.png.png">
+<img src="./images/top_example.png">
 
 ---
 
