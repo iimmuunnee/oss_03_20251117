@@ -166,7 +166,7 @@
 | 옵션 | 설명 |
 |:-----:|:---:|
 | `-l` | 시그널 목록 출력 |
-| `-s [Number Or Signal], -[Number Or Signal]` | 보낼 시그널 지정 |
+| `-s [Number Or Signal]`, `-[Number Or Signal]` | 보낼 시그널 지정 |
 
 ### 시그널
 | 시그널 | 번호 | 설명 |
