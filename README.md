@@ -3,7 +3,7 @@
 
 `top` · `ps` · `jobs` · `kill` 설명 문서
 > by. 조선대학교 컴퓨터공학과 20234889 임휘훈  
-> https://github.com/iimmuunnee/oss_03_20251117
+> <a href="https://github.com/iimmuunnee/oss_03_20251117" target="_blank">https://github.com/iimmuunnee/oss_03_20251117</a>
 
 ## 📖 목차
 1. [개요](#overview)
