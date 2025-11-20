@@ -3,7 +3,7 @@
 
 `top` · `ps` · `jobs` · `kill` 설명 문서
 > by. 조선대학교 컴퓨터공학과 20234889 임휘훈  
-> <a href="https://github.com/iimmuunnee/oss_03_20251117" target="_blank">https://github.com/iimmuunnee/oss_03_20251117</a>
+> <a href="https://github.com/iimmuunnee/oss_03_20251117">https://github.com/iimmuunnee/oss_03_20251117</a>
 
 ## 📖 목차
 1. [개요](#overview)
@@ -14,13 +14,10 @@
     - [jobs](#jobs)
     - [kill](#kill)
 
-
-
 ## 📝 개요 <a id="overview"></a>
 ***Linux*** 환경에서 **프로세스**를 관리할 때 가장 많이 사용하는 명령어 **`top`**, **`ps`**, **`jobs`**, **`kill`** 을 정리한 문서입니다.
 
 각 명령어의 **목적, 사용 예시, 주요 옵션, 출력 예제** 등을 ***Markdown*** 기능을 활용하여 보기 쉽게 구성하였습니다.
-
 
 ## 🔍 명령어 요약 <a id="summary"></a>
 | 명령어 | 역할 | 특징 |
@@ -121,9 +118,6 @@
 | `L` | 메모리 락(lock) 페이지 존재 |
 | `s` | 세션 리더(Session leader) |
 | `l` | 멀티 스레드 프로세스 |
-
-
-
 
 ---
 
